@@ -4,7 +4,7 @@ import {Routes, Route} from 'react-router-dom';
 import { Header } from './components';
 import { ShowProvider } from './contexts';
 
-import './app.css';
+import './App.css';
 
 const App = () => {
     return (
